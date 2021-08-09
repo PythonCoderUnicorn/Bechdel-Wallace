@@ -1,0 +1,187 @@
+
+Season, Episode, Title, Written_By, Director, Bechdel-Wallace, Context, Director_Gender, Writer_Gender
+1,1,Emissary,"Rick Berman & Michael Piller","David Carson",Pass,"Dax and Nerys talked about neutrino disturbance being the wormhole",Male,Male
+1,2,"A Man Alone","Gerald Sanford & Michael Piller","Paul Lynch",Fail,Null,Male,Male
+1,3,"Past Prologue","Katharyn Powers",Winrich Kolbe,Fail,"Nerys talks to Admiral about Sisko",Male,Female
+1,4,Babel,"Sally Caves & Ira Steven Behr","Paul Lynch",Fail,"Nerys talks to Bajoran minister Galis about male prisoner",Male,Female
+1,5,Captive Pursuit,"Jill Sherman Donner",Corey Allen,Fail,Null,Male,Female
+1,6,"Q-Less","Hannah Louise Shearer","Paul Lynch",Fail,Null,Male,Female
+1,7,Dax,"Peter Allan Fields","David Carson",Fail,"female characters talked about male Trill host",Male,Male
+1,8,"The Passenger","Morgan Gendel","Paul Lynch",Fail,"female characters talk about male prisoner",Male,Male
+1,9,"Move Along Home","Michael Piller","David Carson",Fail,Null,Male,Male
+1,10,Nagus,"David Livingston","David Livingston",Fail,Null,Male,Male
+1,11,Vortex,"Sam Rolfe",Winrich Kolbe,Fail,Null,Male,Male
+1,12,"Battle Lines",Hilary Bader,"Paul Lynch",Pass,"Nerys talks with Kai Opaka about her character",Male,Female
+1,13,"The Storyteller","Kurt Michael Bensmiller","David Livingston",Fail,Null,Male,Male
+1,14,Progress,"Peter Allan Fields",Les Landau,Fail,"Dax & Nerys talk about male Morn character initially then sensor readings",Male,Male
+1,15,"If Wishes Were Horses","Nell & William Crawford",Robert Legato,Fail,Null,Male,Male
+1,16,The Forsaken,"Jim Trombetta",Les Landau,Fail,Null,Male,Male
+1,17,"Dramatis Personae",Joe Menosky,Cliff Bole,Fail,"Dax & Nerys talk about males Quark & Sisko",Male,Male
+1,18,Duet,"Lisa Rich & Jeanne Carrigan-Fauci","Jame L. Conway",Fail,"Dax & Nerys talk about male Cardassian prisoner",Male,Female + Female
+1,19,"In the Hands of Prophets","Robert Hewitt Wolfe","David Livingston",Pass,"Keiko, Nerys & Kai Winn talk about the Bajoran prophets & education",Male,Male
+
+
+2,1,"The Homecoming","Jeri Taylor & Ira Steven Behr",Winrich Kolbe,Fail,Null,Male,Female
+2,2,"The Circle","Peter Allan Fields",Corey Allen,Pass,"Dax & Nerys briefly talk about skin lotion",Male,Male
+2,3,"The Siege","Michael Piller",Winrich Kolbe,Pass,"Dax & Nerys talk about Bajoran spiders & spacecraft",Male,Male
+2,4,"Invasive Procedures",John Whelpley,Les Landau,Fail,"Nerys talks with female character about male Trill character taking Dax hostage",Male,Male
+2,5,Cardassians,"Gene Wolande & John Wright",Cliff Bole,Fail,Null,Male,Male
+2,6,Melora,"Evan Carlos Somers",Winrich Kolbe,Fail,"Dax & Ensign Melora talk about relationships & Dr. Bashir",Male,Male
+2,7,"Rules of Acquisition","Hillary Bader","David Livingston",Fail,"1) Dax & Nerys talk about Grand Nagus Zek giving Nerys jewellery. 2) Ferengi Pel & Dax talk about Quark",Male,Female
+2,8,"Necessary Evil","Peter Allan Fields","James L. Conway",Fail,Null,Male,Male
+2,9,Second Sight,"Mark Gehred-O'Connell",Alexander Singer,Fail,Null,Male,Male
+2,10,Sanctuary,"Gabe Essoe & Kelley Miles",Les Landau,Pass,"1) Nerys talks to Skreean female about fate of people. 2) Nerys & Skreean female talk about males and fashion",Male,Female + Male
+2,11,Rivals,"Jim Trombetta & Michael Piller",David Livingston,Pass,"1) & 2) Dax & Nerys briefly talk about station's random accidents/ luck",Male,Male
+2,12,"The Alternate","Jim Trombetta & Bill Dial",David Carson,Fail,Null,Male,Male
+2,13,"The Armageddon Game",Morgan Gendel,Winrich Kolbe,Fail,"Dax & Nerys talk about Dr. Bashir",Male,Male
+2,14,Whispers,"Paul Robert Coyle",Les Landau,Fail,Null,Male,Male
+2,15,Paradise,"Jim Trombetta & James Crocker",Corey Allen,Fail,"1) Nerys & Dax talk about men Admiral Mitsuya & Sisko. 2) Dax & Nerys talk about tactical skills. 3) Dax & Nerys talk about Sisko & O'Brien and tactical maneuvers",Male,Male
+2,16,"Shadow Play","Robert Hewitt Wolfe",Robert Scheerer,Fail,Null,Male,Male
+2,17,"Playing God",Jim Trombetta,David Livingston,Fail,Null,Male,Male
+2,18,"Profit and Loss","Flip Kobler & Cindy Marcus",Robert Wiemer,Fail,Null,Male,Female + Male
+2,19,"Blood Oath","Peter Allan Fields",Winrich Kolbe,Fail,"Dax & Kira talk about killing Cardassians & Klingon  male with male Klingon crew",Male,Male
+2,20,"The Maquis: Part 1","Rick Berman, Michael Piller, Jeri Taylor & James Crocker","David Livingston",Fail,"Dax & Nerys talk about Dax's date with male Galamite",Male,"Female (+ men)"
+2,21,"The Maquis: Part 2","Rick Berman, Michael Piller, Jeri Taylor & James Crocker",Corey Allen,Fail,Null,Male,"Female (+ men)"
+2,22,"The Wire","Robert Hewitt Wolfe",Kim Friedman,Fail,Null,Female,Male
+2,23,Crossover,"Peter Allan Fields",David Livingston,Fail,"Kira Nerys talks with mirror-universe Lt. Nerys",Male,Male
+2,24,"The Collaborator",Gary Holland,Cliff Bole,Fail,"1) Nerys & Kai Winn talk about Winn's visit to station. 2) Nerys & Winn talk about male Vedek Bareil (longer conversation). 3) Nerys & Winn talk about Bareil again",Male,Male
+2,25,Tribunal,Bill Dial,Avery Brooks,Fail,"Keiko talks about husband with Cardassian judge",Male,Male
+2,26,"The Jem'Hadar","Ira Steven Behr",Kim Friedman,Pass,"Dax & Nerys briefly talk about station operations",Female,Male
+
+
+3,1,"The Search: Part 1","Ira Steven Behr & Robert Hewitt Wolfe",Kim Friedman,Fail,Null,Female,Male
+3,2,"The Search: Part 2","Ira Steven Behr & Robert Hewitt Wolfe",Jonathan Frakes,Pass,"Nerys and female Founder talk about planet and history of humanoids",Male,Male
+3,3,"The House of Quark",Tom Benko,Les Landau,Fail,Null,Male,Male
+3,4,Equilibrium,Christopher Teague,Cliff Bole,Fail,"Dax & Nerys talk about Sisko alleged cheating at game of chess",Male,Male
+3,5,"Second Skin","Robert Hewitt Wolfe",Les Landau,Pass,"1) Dax & Nerys briefly talk about holosuite program. 2) Nerys talks to Bajoran Minister about alleged imprisonment",Male,Male
+3,6,"The Abandoned","D. Thomas Maio & Steve Warnek",Avery Brooks,Fail,Null,Male,Male
+3,7,"Civil Defense",Mike Krohn,Reza Badiyi,Fail,Null,Male,Male
+3,8,Meridian,"Hilary Bader & Evan Carlos Somers",Jonathan Frakes,Fail,Null,Male,Female + Male
+3,9,Defiant,Ronald D. Moore,Cliff Bole,Fail,"Dax & Nerys talk about Will Riker",Male,Male
+3,10,Fascination,"Ira Steven Behr & James Crocker",Avery Brooks,Fail,Null,Male,Male
+3,11,"Past Tense: Part 1","Ira Steven Behr & Robert Hewitt Wolfe",Reza Badiyi,Fail,Null,Male,Male
+3,12,"Past Tense: Part 2","Ira Steven Behr & Robert Hewitt Wolfe",Jonathon Frakes,Fail,Null,Male,Male
+3,13,"Life Support","Christian Ford & Roger Soffer",Reza Badiyi,Fail,"Nerys & Kai Winn talk about Vedek Bareil dying",Male,Male
+3,14,"Heart of Stone","Ira Steven Behr & Robert Hewitt Wolfe",Alexander Singer,Fail,Null,Male,Male
+3,15,Destiny,"David S. Cohen & Martin A. Winer",Les Landau,Pass,"1) Nerys & 2 Cardassian scientists talk about research study. 2) Dax asks the 2 scientists about project details 3) Dax & Cardassians talk about food",Male,Male
+3,16,"Prophet Motive","Ira Steven Behr & Robert Hewitt Wolfe",Rene Auberjonois,Fail,Null,Male,Male
+3,17,Visionary,"Ethan H. Calk",Reza Badiyi,Fail,"Nerys and Romulan officer talk about Odo being security risk",Male,Male
+3,18,"Distant Voices","Joe Menosky",Alexander Singer,Fail,Null,Male,Male
+3,19,"Through the Looking Glass","Ira Steven Behr & Robert Hewitt Wolfe",Winrich Kolbe,Fail,"Mirror universe Jennifer & Nerys talk about regular Sisko",Male,Male
+3,20,"Improbable Cause","Robert Lederman & David R. Long",Avery Brooks,Fail,Null,Male,Male
+3,21,"The Die is Cast","Ronald D. Moore",David Livingston,Fail,Null,Male,Male
+3,22,Explorers,"Rene Echevarria & Hilary J. Bader",Cliff Bole,Fail,Null,Male,Female + Male
+3,23,"Family Business","Ira Steven Behr & Robert Hewitt Wolfe",Rene Auberjonois,Fail,Null,Male,Male
+3,24,Shakaar,Gordon Dawson,Jonathan West,Fail,"Nerys & Kai Winn talk about deceased Bareil and a former male resistence fighter",Male,Male
+3,25,Facets,Rene Echevarria,Cliff Bole,Fail,"1) Dax talks to Nerys, Lita & Quark who are host to former female Trill who talks about men. 2) Dax talks to 4 male Trill hosts.",Male,Male
+3,26,"The Adversary","Ira Steven Behr & Robert Hewitt Wolfe",Alexander Singer,Fail,Null,Male,Male
+
+
+4,1,"The Way of the Warrior","Ira Steven Behr & Robert Hewitt Wolfe","James L. Conway",Fail,"Dax & Nerys in holosuite with holographic men",Male,Male
+4,2,"The Visitor",Michael Taylor,David Livingston,Fail,Null,Male,Male
+4,3,"Hippocratic Oath","Nicholas Corea & Lisa Klink",Rene Auberjonois,Fail,Null,Male,Female + Male
+4,4,Indescretion,"Toni Marberry & Jack Trevino",Levar Burton,Fail,"Dax talks with Cassidy about living on station next to Sisko",Male,Male
+4,5,Rejoined,Rene Echevarria,Avery Brooks,Fail,"1) Dax works with former spouse Dr. Lenara Kahn (2 current female Trills) but mention males. 2) Lenara talks about male former host two times. 3) both female Trills talk about relationship, work project & male family members",Male,Male
+4,6,"Starship Down","David Mack & John J. Ordover",Alexander Singer,Fail,Null,Male,Male
+4,7,"Green Little Men","Toni Marberry & Jack Trevino","Jame L. Conway",Fail,Null,Male,Male
+4,8,"Sword of Kahless",Richard Denus,Levar Burton,Fail,Null,Male,Male
+4,9,"Our Man Bashir",Robert Gillan,Winrich Kolbe,Fail,Null,Male,Male
+4,10,Homefront,"Ira Steven Behr & Robert Hewitt Wolfe",David Livingston,Fail,Null,Male,Male
+4,11,"Paradise Lost",Ronald Moore,Reza Badiyi,Fail,Null,Male,Male
+4,12,Crossfire,Rene Echevarria,Les Landau,Fail,Null,Male,Male
+4,13,"Return to Grace",Tom Benko,Jonathan West,Fail,"1) Nerys & Ziyal talk about Gul Dukat. 2) Nerys & Ziyal talk about weapons & talk about Dukat. 3) Both of them talk about Dukat & self defense",Male,Male
+4,14,"Sons of Mogh",Ronald Moore,David Livingston,Fail,Null,Male,Male
+4,15,"Bar Association","Barabara J. & Jenifer A. Lee",Levar Burton,Fail,Null,Male,Female
+4,16,Accession,Jane Espenson,Les Landau,Fail,"Nerys interacts with unnamed Bajoran over seating",Male,Female
+4,17,"Rules of Engagement","Bradley Thompson & David Weddle",Levar Burton,Fail,Null,Male,Male
+4,18,"Hard Time","Danial Keys Moran & Lynn Barker",Alexander Singer,Fail,Null,Male,Male
+4,19,"Shattered Mirror","Ira Steven Behr & Hans Beimler","James L. Conway",Fail,"Mirror universe Nerys & Jennifer Sisko talk about Jake being a hostage",Male,Male
+4,20,"The Muse","Rene Echevarria & Majel Barrett Roddenberry",David Livingston,Fail,"Lwaxana Troi talks about marriage to a male to Dax & Nerys",Male,Male
+4,21,"For the Cause","Mark Gehred-O'Connell","James L. Conway",Fail,Null,Male,Male
+4,22,"To the Death","Ira Steven Behr & Robert Hewitt Wolfe",Levar Burton,Fail,Null,Male,Male
+4,23,"The Quickening",Naren Shankar,Rene Auberjonois,Fail,"Dax talks to woman on plagued planet, mentions husband, then refers to Dr. Bashir",Male,Male
+4,24,"Body Parts","Louis P. DeSantis & Robert J. Bolivar",Avery Brooks,Fail,"1) Keiko mentions Dr.Bashir to Nerys. 2) Keiko & Nerys talk about pregnancy issues",Male,Male
+4,25,"Broken Link",George A. Brozak,,Fail,"Dax quickly talks to female Founder over control of ship's helm",Male,Male
+
+
+5,1,"Apocalypse Rising","Ira Steven Behr & Robert Hewitt Wolfe","James L. Conway",Fail,Null,Male,Male
+5,2,"The Ship","Pam Wigginton & Rick Cason",Kim Friedman,Fail,Null,Female, Female + Male
+5,3,"Looking for Par'Mach in all the Wrong Places","Richard D. Moore","Andrew J. Robinson",Fail,"Keiko asks Nerys if she is fighting with O'Brien",Male,Male
+5,4,"Nor the Battle to the Strong","Brice R. Parker",Kim Friedman,Fail,Null,Female,Male
+5,5,"The Asignment","David R. Long & Robert Lederman",Allan Kroeker,Fail,Null,Male,Male
+5,6,"Trials and Tribble-ations","Ira Steven Behr, Hans Beimler & Robert Hewitt Wolfe",Jonathan West,Fail,Null,Male,Male
+5,7,"Let He Is Without Sin","Ira Steven Behr & Robert Hewitt Wolfe",Rene Auberjonois,Fail,"Dax talks to Arandis about former Trill Curzon and Klingon Worf partner",Male,Male
+5,8,"Things Past",Michael taylor,Levar Burton,Fail,Null,Male,Male
+5,9,The Ascent,"Ira Steven Behr & Robert Hewitt Wolfe",Allan Kroeker,Fail,Null,Male,Male
+5,10,Rapture,"L.J. Strom",Jonathan West,Fail,"1) Nerys talks to Dax about ancient Bajoran city. 2) Nerys asks Dax whereabouts of Sisko. 3) Kai Winn talks with Nerys about Sisko twice",Male,Female
+5,11,"The Darkness and the Light",Bryan Fuller,Michael Vejar,Pass,"Nerys talks to old female Bajoran friend",Male,Male
+5,12,"The Begotten",Rene Echevarria,"Jesus Salvador Trevino",Fail,"pregnant Nerys is told by Bajoran female dula that male baby is doing okay",Male,Male
+5,13,"For the Uniform","Peter Allen Fields",Victor Lobl,Fail,Null,Male,Male
+5,14,"In Purgatory' Shadow","Ira Steven Behr & Robert Hewitt Wolfe",Gabrielle Beaumont,Fail,"Nerys talks to Dax about O'Brien's baby boy",Female,Male
+5,15,"By Inferno's Light","Ira Steven Behr & Robert Hewitt Wolfe",Les Landau,Fail,"1) Nerys talks to Ziyal who mentions male Cardassian Garak & father. 2) Nerys & Dax quickly talk about spacecraft tactics",Male,Male
+5,16,"Doctor Bashir I Presume?",Jimmy Diggs,David Livingston,Fail,Null,Male,Male
+5,17,"A Simple Investigation",Rene Echevarria,John Kretchmer,Fail,"Dax & Nerys talk about Odo (a male) having sex",Male,Male
+5,18,"Business as Usual","Bradley Thompson & David Weddle","Siddig El Fadeil",Fail,Null,Male,Male
+5,19,"Ties of Blood & Water","Edmund Newton & Robbin L. Slocum",Avery Brooks,Fail,"Nerys talks to Dax about male Cardassian Tekeny Ghemor",Male,Male
+5,20,"Ferengi Love Songs","Ira Steven Behr & Hans Beimler",Rene Auberjonois,Fail,Null,Male,Male
+5,21,"Soldiers of the Empire","Ronald D. Moore",Levar Burton,Pass,"Dax and female Klingon talk about fighting on the ship",Male,Male
+5,22,"Children of Time","Gary Holland & Ethan H. Calk",Allan Kroeker,Fail,"Nerys talks about her relationship with male Bajoran to Dax",Male,Male
+5,23,"Blaze of Glory","Ira Steven Behr & Robert Hewitt Wolfe",Kim Friedman,Fail,Null,Female,Male
+5,24,"Empok Nor",Bryan Fuller,Michael Vejar,Fail,Null,Male,Male
+5,25,"In the Cards","Truly Barr Clark & Scott J. Neal",Michael Dorn,Fail,Null,Male,Male
+5,26,"Call to Arms","Ira Steven Behr & Robert Hewitt Wolfe",Allan Kroeker,Fail,"Nerys & Dax talk about Quark (male Ferengi) and Odo (male)",Male,Male
+
+
+6,1,"A Time to Stand","Ira Steven Behr & Hans Beimler",Allan Kroeker,Fail,Null,Male,Male
+6,2,"Rocks and Shoals","Ronald D. Moore",Michael Vejar,Pass,"Nerys talks to Bajoran Vedek about Dominion occupation of station",Male,Male
+6,3,"Sons and Daughters","Donal Thompson & David Weddle","Jesus Salvador Trevino",Fail,"Nerys talks to Ziyal, Ziyal mentions father Gul Dukat (2 times)",Male,Male
+6,4,"Behind the Lines","Rene Echevarria",Levar Burton,Fail,Null,Male,Male
+6,5,"Favor the Bold","Ira Steven Behr & Hans Beimler",Winrich Kolbe,Fail,"1) Nerys asks Ziyal to talk to her father. 2) Ziyal talks about her father to Nerys",Male,Male
+6,6,"Sacrifice of Angels","Ira Steven Behr & Hans Beimler",Allan Kroeker,Fail,Null,Male,Male
+6,7,"You Are Cordially Invited","Ronald D. Moore",David Livingston,Fail,"1) Dax tells Nerys about wedding arrangements that fiance Worf wants and Nerys talks about Odo. 2) Dax and Klingon Sirella talk about wedding ceremony traditions",Male,Male
+6,8,Resurrection,Michael Taylor,Levar Burton,Fail,"1) Dax and Nerys talk about male Captain Boday. 2) Dax & Nerys talk about mirror universe Bareil. 3) Nerys and mirror universe Nerys talk about Bereil",Male,Male
+6,9,"Statistical Probabilities",Pam Pietroforte,Anson Williams,Fail,Null,Male,Female
+6,10,"Magnificient Ferengi","Ira Steven Behr & Hans Beimler",Chip Chalmers,Fail,Null,Male,Male
+6,11,Waltz,"Ronald D. Moore",Rene Auberjonois,Fail,Null,Male,Male
+6,12,"Who Mourns for Morn?","Mark Gehred-O'Connell",Victor Lobl,Fail,Null,Male,Male
+6,13,"Far Beyond the Stars","Mark Scott Zicree",Avery Brooks,Fail,Null,Male,Male
+6,14,"One Little Ship","David Weddle & Bradley Thompson",Allan Kroeker,Fail,Null,Male,Male
+6,14,"Honour Among Thieves",Philip Kim,Allan Eastman,Fail,Null,Male,Male
+6,16,"Change of Heart","Ronald D. Moore",David Livingston,Fail,"Nerys talks to Dax about rescue of male operative Lasarran",Male,Male
+6,17,"Wrongs Darker than Death or Night","Ira Steven Behr & Hans Beimler",Jonathan West,Fail,"1) Nerys talks to Bajoran female friend. 2) Nerys & friend talk about Gul Dukat",Male,Male
+6,18,Inquisition,"Bradley Thompson & David Weddle",Michael Dorn,Fail,Null,Male,Male
+6,19,"In the Pale Moonlight","Peter Allan Fields",Victor Lobl,Fail,Null,Male,Male
+6,20,"His Way","Ira Steven Behr & Hans Beimler",Allan Kroeker,Pass,"Dax & Nerys talk about having moments of clarity in life",Male,Male
+6,21,"The Reckoning","Harry M. Werksman & Gabrielle Stanton","Jesus Salvador Trevino",Fail,"Nerys and Kai Winn talk about Sisko",Male,Female + Male
+6,22,Valiant,"Ronald D. Moore",Michael Vejar,Fail,Null,Male,Male
+6,23,"Profit & Lace","Ira Steven Behr & Hans Beimler",Alexander Siddig,Fail,Null,Male,Male
+6,24,"Time's Orphan",Joe Menosky,Allan Kroeker,Fail,"Dax mentions to Nerys that Odo contacted Bajoran institute along with O'Brien being worried about lost daughter",Male,Male
+6,25,"Sounder of Her Voice",Pam Pietroforte,Winrich Kolbe,Fail,Null,Male,Female
+6,26,"Tears of the Prohets","Ira Steven Behr & Hans Beimler",Allan Kroeker,Fail,Null,Male,Male
+
+
+7,1,"Image in the Sand","Ira Steven Behr & Hans Beimler",Les Landau,Pass,"Nerys talks with female Romulan about station & war effort, mentions Admiral Ross (male) and O'Brien",Male,Male
+7,2,"Shadows and Symbols","Ira Steven Behr & Hans Beimler",Allan Kroeker,Pass,"technical pass, Nerys and Romulan officer don't mention a male but are in a 3 person discussion with male Admiral",Male,Male
+7,3,Afterimage,Rene Echevarria,Les Landau,Pass,"Nerys and Ezri Dax talk about death of Jadzia",Male,Male
+7,4,"Take Me Out to the Holo-Suite","Ronald D. Moore",Chip Chalmers,Fail,"Leeta & Ezri Dax mention Jake regarding baseball game",Male,Male
+7,5,Chrysalis,Rene Echevarria,Jonathan West,Fail,"1) Sarina talks briefly to Dr. Bashir, Ezri Dax and sings notes with fellow female Lauren. 2) Sarina talks to group of Dr. Bashir's friends, men are mentioned",Male,Male
+7,6,"Treachery, Faith and the Great River",Phillip Kim,Steve Posey,Fail,Null,Male,Male
+7,7,"Once More Unto the Breach","Ronald D. Moore",Allan Kroeker,Fail,"Ezri talks with Nerys about life adjustments then mentions Klingon Kor and Worf",Male,Male
+7,8,"Siege of AR-558","Ira Steven Behr & Hans Beimler",Winrich Kolbe,Fail,Null,Male,Male
+7,9,Covenant,Rene Echevarria,John Kretchmer,Fail,Null,Male,Male
+7,10,"It's Only a Paper Moon","David Mack & John J. Ordover",Anason Williams,Fail,Null,Male,Male
+7,11,"Prodigal Daughter","Bradley Thompson & David Weddle",Victor Lobl,Fail,"1) Ezri talks with mother about being Trill symbiont host then mentions O'Brien and Sisko. 2) Ezri gets asked about former male dating partner. 3) Ezri & mother talk about male siblings",Male,Male
+7,12,"The Emperor's New Cloak","Ira Steven Behr & Hans Beimler",Levar Burton,Fail,"1) Mirror universe: Ezri & Nerys kiss but don't talk. 2) Nerys asks if Ezri will betray her like the men. 3) Ezri tells Nerys that she shouldn't have killed Brunt (male Ferengi)",Male,Male
+7,13,"Field of Fire","Robert Hewitt Wolfe",Tony Dow,Fail,Null,Male,Male
+7,14,Chimera,"Rene Echevarria",Steve Posey,Fail,Null,Male,Male
+7,15,"Badda-Bing-Badda-Bang","Ira Steven Behr & Hans Beimler",Mike Vejar,Fail,Null,Male,Male
+7,16,"Inter Arma Enim Silent Leges","Ronald D. Moore",David Livingston,Fail,"Nerys talks to a female Romulan briefly & directly in group of men in board meeting",Male,Male
+7,17,"Prenumbra Part 1","Rene Echevarria",Steve Posey,Pass,"Kassidy Yates gets asked about wedding by Bajoran teenager",Male,Male
+7,18,"Till Death Do Us Part: Part 2","Rene Echevarria",Hans Beimler,Fail,Null,Male,Male
+7,19,"Strange Bedfellows: Part 3","Ronald D. Moore",Rene Auberjonois,Pass,"Kai Winn talks to Nerys about the prophets and her sins",Male,Male
+7,20,"The Changing Fcae of Evil: Part 4","Ira Steven Behr & Hans Beimler",Mike Vejar,Fail,Null,Male,Male
+7,21,"When It Rains: Part 5","Rene Echevarria & Spike Steingasser",Michael Dorn,Fail,Null,Male,Male
+7,22,"Tracking Into the Wind: Part 6","Ronald D. Moore",Mike Vejar,Fail,Null,Male,Male
+7,23,"Extreme Measures: Part 7","Bradley Thompson & David Weddle",Steve Posey,Fail,Null,Male,Male
+7,24,"The Dogs of War: Part 8","Peter Allan Fields",Avery Brooks,Fail,Null,Male,Male
+7,25,"What You Leave Behind","Ira Steven Behr & Hans Beimler",Allan Kroeker,Pass,"Nerys talks with female Founder about ending of the war",Male,Male
