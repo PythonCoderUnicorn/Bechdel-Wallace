@@ -1,0 +1,43 @@
+
+*{
+    background-color: black;
+}
+body{
+    background-color: black;
+    font-size: 2.2em;
+    font-family: 'Oswald', sans-serif;
+    color: #dfdede;
+}
+
+/* TREK COLORS
+purple 9999CD
+lime C4DE23
+grey DFDEDE
+peach FFA747
+pink FF9DCD
+yellow FECD4E
+beige FFCC9A
+*/
+
+h1{ color: #9999CD;}
+h2{ color: #FFA747;}
+h3{ color: #C4DE23;}
+
+
+code {
+    background-color: black;
+    size: 20px;
+    color: chartreuse;
+}
+.code hljs{ background-color: black; }
+pre {
+    background-color: black;
+    color: #FECD4E;
+    size: 20px;
+}
+pre:not([class]){background-color: black; }
+
+
+.code{
+    font-family: monospace;
+}
