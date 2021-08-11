@@ -1,0 +1,192 @@
+---
+title: "StarTrek-Bechdel"
+author: "Zane Dax"
+date: "09/08/2021"
+output: 
+  html_document: 
+    css: trekStyle.css
+---
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+</style>
+
+
+
+
+```{r setup, include=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Bechdel-Wallace Test of Star Trek DS9 
+
+This data is testing if the episodes per season of the TV show Star Trek DS9 pass or fail the **Bechdel-Wallace** test. For more information check the *Bechdel-test.md*  file. Simple criteria for the test to end in a pass is the following:
+
+## Criteria : 
+
+1. must have 2+ named women 
+2. named women talk to each other
+3. topic of discussion is not a man/ men including regarding relationship(s)
+
+
+## Notes for DS9
+* Null indicates that 1 female was present in a scene with males or not in the scene at all.
+* Jadzia Dax was so frequently the only female in scenes filled with males due to her being the only female that leaves the station on a regular basis, later episodes Kira Nerys does as well
+* If an episode has both a fail and a pass, the longer conversation determines the total outcome
+* Out of all Star Trek writers for shows TOS, TNG, DS9 and VOY, 66 are female and 302 are male. The female writers in total make up 21.85% of all Star Trek writers. 
+* DS9 Female main characters: Kira Nerys, Jadzia Dax, Ezri Dax, Keiko, Kai Winn, Leeta, Female Founder
+
+```{r warning=FALSE, echo=FALSE, include=FALSE}
+library(tidyverse)
+library(ggplot2)
+```
+
+## Read in the dataset
+> ds9 = read.csv('StarTrek-DS9.csv')
+
+
+
+## Episodes per season
+> ds9 %>% count(Season)
+
+```
+  Season     n 
+   <dbl> <int>
+1      1    19
+2      2    26
+3      3    26
+4      4    25
+5      5    26
+6      6    26
+7      7    25
+```
+
+## Bechdel-Wallace initial pass/fail 
+
+<p id="code">
+> ds9 %>% count(`Bechdel-Wallace`) %>% <br>
+  ggplot( aes(x= `Bechdel-Wallace`, y= n ) ) + <br>
+  geom_col( fill= c("#cc0000",'#00cc00')) + <br>
+  labs(title = "Star Trek DS9 Bechdel-Wallace Test", <br>
+       subtitle = "Total number of pass and fails per episode") 
+</p>
+
+The number of fails of the Bechdel-Wallace test are 152 and the number of passes is 21.
+![](images/DS9-Bechdel-test1.png)
+
+## DS9 Directors by Gender
+
+> ds9 %>% <br>
+  select(Director_Gender, <br>
+    Writer_Gender, Episode, `Bechdel-Wallace`) %>% <br>
+  group_by(Director_Gender) %>% <br>
+  count()
+
+Female directors count is 7 while the Male directors is 166.
+
+![](images/DS9-Bechdel-test2.png)
+
+## DS9 Director's Gender & Bechdel Test
+
+> ds9 %>% <br>
+  select(`Bechdel-Wallace`, Director_Gender, Episode, Season) %>% <br>
+  # filter(`Bechdel-Wallace` =="Pass") %>% <br>
+  group_by(Episode,`Bechdel-Wallace`) 
+  
+
+![](images/DirectorGender-Test.png)
+
+
+## DS9 Female Directors Episodes 
+
+> ds9 %>% <br>
+  filter(Director_Gender == "Female") %>% <br>
+  select(Title, Director, Season)
+
+![](images/DS9-Bechdel-test3.png)
+
+## DS9 Writers with 1 or more Female by Season
+
+> ds9 %>% <br>
+  filter(Writer_Gender =="Female") %>% <br>
+  select(Title, Writer_Gender, Season, Episode, Written_By)
+
+![](images/FemaleWriters-Season.png)
+
+## DS9 Female (only) Writers by Season
+
+> ds9 %>% <br>
+  select(Season, Director_Gender, Writer_Gender) %>% <br>
+  group_by(Season,Writer_Gender) %>% <br>
+  filter(Writer_Gender =="Female") %>% <br>
+  count() 
+
+![](images/DS9-Bechdel-test5.png)
+
+
+
+## DS9 Bechdel-Wallace Passes by Season
+The data for the barchart is selected on pass variable and there is only 1 female Director (Season 2), a total of 2 female writers (1 female in Season 1, and in Season 2: 1 female + male)
+
+> ds9 %>% <br>
+    filter(`Bechdel-Wallace` =="Pass") %>% <br>
+    select(Season,Episode,Writer_Gender,Director_Gender)
+
+![](images/Bechdel-Passes-Season.png)
+
+
+## DS9 Writers by Gender grouping
+
+> ds9 %>% <br>
+  group_by(Writer_Gender) %>% <br>
+  count()
+
+![](images/DS9-Bechdel-test6.png)
+
+
+
+## Linear Regression 
+A linear regression model was conducted to see if there was any affect a Director or Writer's gender had on if it passed or failed the Bechdel-Wallace test.
+
+```
+  Call:
+  lm(formula = Bechdel ~ Director_Gender + Writer_Gender + Season, 
+      data = ds9)
+  
+  Residuals:
+      Min      1Q  Median      3Q     Max 
+  -0.1514 -0.1287 -0.1233 -0.1178  0.9117 
+  
+  Coefficients:
+                                Estimate Std. Error t value Pr(>|t|)    
+  (Intercept)                   1.105551   0.164569   6.718 2.81e-10 ***
+  Director_GenderMale          -0.014517   0.129410  -0.112    0.911    
+  Writer_GenderFemale (+ men)  -0.085598   0.254370  -0.337    0.737    
+  Writer_GenderFemale + Female -0.088316   0.347191  -0.254    0.800    
+  Writer_GenderFemale + Male    0.059456   0.159669   0.372    0.710    
+  Writer_GenderMale             0.045844   0.101841   0.450    0.653    
+  Season                       -0.002718   0.013483  -0.202    0.841    
+  ---
+  Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+  
+  Residual standard error: 0.3327 on 166 degrees of freedom
+  Multiple R-squared:  0.004003,	Adjusted R-squared:  -0.032 
+  F-statistic: 0.1112 on 6 and 166 DF,  p-value: 0.995
+
+```
+
+As you can see that there is no statistically signifant affect of either writer or director's gender has on if an episode passes the Bechdel-Wallace test.
+
+
+
+
+
+
+
+
+
+
+
+
