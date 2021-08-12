@@ -61,5 +61,5 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 ### Notes
 - Females make up 50% of non-main characters
 - Males make up 42.8% of non-main characters
-- 1 non-binary character exists, counted as other 
-- Number One is used for both male and female characters in Star Trek history, thus counted as other
+- 1 non-binary character exists
+- "Number One" is used for both male and female characters in Star Trek history
