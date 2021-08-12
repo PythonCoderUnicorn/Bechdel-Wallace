@@ -1,6 +1,6 @@
 
 <p>
-<image src=https://d1qxviojg2h5lt.cloudfront.net/images/01CRRB7TVK0VAG4YKGN46ZCPN4/stdiscovery400.png>
+<image src="https://d1qxviojg2h5lt.cloudfront.net/images/01CRRB7TVK0VAG4YKGN46ZCPN4/stdiscovery400.png">
 </p>
 
 <style>
