@@ -1,18 +1,4 @@
 
-<p>
-<image src="https://d1qxviojg2h5lt.cloudfront.net/images/01CRRB7TVK0VAG4YKGN46ZCPN4/stdiscovery400.png">
-</p>
-
-<style>
-    body{
-        background-color: #000000;
-        color: #ffffff;
-        font-size: 16px;
-    }
-    h1,h2,h3,h4,p {color: #ffb366;}
-    a{color:#99ffcc;}
-    li{color:#33cccc;}
-</style>
 
 
 # Star Trek Discovery
