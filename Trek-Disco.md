@@ -23,7 +23,7 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 - **Christopher Pike** (Male, Human)
 - **Nhan** (Female, Barzan)
 - **Cleveland "Book" Booker** (Male, Kwejian)
-- **Admiral Cornwall** (Female, Human)
+- **Admiral Katrina Cornwall** (Female, Human)
 - **Philippa Georgiou** (Female, Human)
 
 ### Note
@@ -39,7 +39,6 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 - **R.A. Bryce** (Male, Human)
 - **L'Rell** (Female, Klingon)
 - **Sarek** (Male, Vulcan)
-- **Katrina Cornwell** (Female, Human)
 - **Amanda Grayson** (Female, Human)
 - **Kol** (Male, Klingon)
 - **Harry Mudd** (Male, Human)
@@ -62,7 +61,7 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 
 
 ### Notes
-- Females make up 51.8% of non-main characters
+- Females make up 48% of non-main characters
 - Males make up 42.8% of non-main characters
 - 1 non-binary character exists
 - "Number One" is used for both male and female characters in Star Trek history
