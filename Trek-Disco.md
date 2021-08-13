@@ -23,9 +23,10 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 - **Christopher Pike** (Male, Human)
 - **Nhan** (Female, Barzan)
 - **Cleveland "Book" Booker** (Male, Kwejian)
+- **Admiral Cornwall** (Female, Human)
 
 ### Note
-- Females make up 30% of total main characters
+- Females make up 36% of total main characters
 
 
 ## Other Characters
@@ -33,6 +34,7 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 - **Philippa Georgiou** (Female, Human)
 - **Keyla Detmer** (Female, Human)
 - **Joann Owosekun "Owo"** (Female, Human)
+- **Ellen Landry** (Female, Human)
 - **Gen Rhys** (Male, Human)
 - **R.A. Bryce** (Male, Human)
 - **L'Rell** (Female, Klingon)
@@ -60,7 +62,7 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 
 
 ### Notes
-- Females make up 50% of non-main characters
+- Females make up 51.8% of non-main characters
 - Males make up 42.8% of non-main characters
 - 1 non-binary character exists
 - "Number One" is used for both male and female characters in Star Trek history
