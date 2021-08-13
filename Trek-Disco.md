@@ -24,14 +24,14 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 - **Nhan** (Female, Barzan)
 - **Cleveland "Book" Booker** (Male, Kwejian)
 - **Admiral Cornwall** (Female, Human)
+- **Philippa Georgiou** (Female, Human)
 
 ### Note
-- Females make up 36% of total main characters
+- Females make up 41.6% of total main characters
 
 
 ## Other Characters
 
-- **Philippa Georgiou** (Female, Human)
 - **Keyla Detmer** (Female, Human)
 - **Joann Owosekun "Owo"** (Female, Human)
 - **Ellen Landry** (Female, Human)
