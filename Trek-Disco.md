@@ -14,54 +14,61 @@ The starship the show is named after is USS *Discovery* (NCC-1031).
 ## Main Characters
 
 - **Michael Burnham** (Female, Human)
+- **Philippa Georgiou** (Female, Human)
+- **Sylvia Tilly** (Female, Human)
 - **Saru** (Male, Kelpian)
 - **Ash Tyler / Voq** (Male, Human / Klingon)
 - **Paul Stamets** (Male, Human)
-- **Sylvia Tilly** (Female, Human)
 - **Gabriel Lorca** (Male, Human)
-- **Hugh Culber** (Male, Human)
+- **Dr. Hugh Culber** (Male, Human)
 - **Christopher Pike** (Male, Human)
-- **Nhan** (Female, Barzan)
 - **Cleveland "Book" Booker** (Male, Kwejian)
 - **Admiral Katrina Cornwall** (Female, Human)
-- **Philippa Georgiou** (Female, Human)
 
 ### Note
-- Females make up 41.6% of total main characters
+- Females make up 36% of total main characters
 
 
 ## Other Characters
 
-- **Keyla Detmer** (Female, Human)
-- **Joann Owosekun "Owo"** (Female, Human)
-- **Ellen Landry** (Female, Human)
-- **Gen Rhys** (Male, Human)
-- **R.A. Bryce** (Male, Human)
-- **L'Rell** (Female, Klingon)
-- **Sarek** (Male, Vulcan)
-- **Amanda Grayson** (Female, Human)
-- **Kol** (Male, Klingon)
-- **Harry Mudd** (Male, Human)
-- **Tracy Pollard** (Female, Human)
+
 - **Airiam** (Female, Human-Cyborg)
-- **Nilsson** (Female, Human)
-- **Spock** (Male, Vulcan)
-- **Jett Reno** (Female, Human)
-- **Linus** (Male, Saurian)
-- Number One (ambiguous)
-- **Leland** (Male, Human)
-- **Gabrielle Burnham** (Female, Human)
-- **Adira Tal** (Non-Binary, Human)
-- **Gray Tal** (Male, Trill)
-- **Charles Vanc**e (Male, Human)
+- **Adira** Tal (Non-Binary, Human)
+- R.A. **Bryce** (Male, Human)
+- Gabrielle **Burnham** (Female, Human)
+- Keyla **Detmer** (Female, Human)
+- Amanda **Grayson** (Female, Human)
+- **Kol** (Male, Klingon)
 - **Kovich** (Male, Human)
-- **Audrey Willa** (Female, Human)
-- **Ryn** (Male, Andorian)
+- Ellen **Landry** (Female, Human)
+- **Leland (Section 31)** (Male, Human)
+- **Linus** (Male, Saurian)
+- **L'Rell** (Female, Klingon)
+- **May** Ahearn (Female, Human) {imaginary}
+- **Harry Mudd** (Male, Human)
+- **Nhan** (Female, Barzan)
+- **Nilsson** (Female, Human)
+- **Captain Ndoye** (Female, Human)
+- Joann Owosekun **"Owo"** (Female, Human)
 - **Osyraa** (Female, Orion)
+- **Dr. Tracy Pollard** (Female, Human)
+- Me Hani Ika Hali Ka Po **"Po"** (Female, Xahean)
+- Jett **Reno** (Female, Human)
+- Gen **Rhys** (Male, Human)
+- **Ryn** (Male, Andorian)
+- **Sarek** (Male, Vulcan)
+- **Spock** (Male, Vulcan)
+- **Gray Tal** (Male, Trill)
+- **Tolor** (Male, Orion)
+- **Una** "Number One" (Female, Human)
+- Charles **Vanc**e (Male, Human)
+- Audrey **Willa** (Female, Human)
+
 
 
 ### Notes
-- Females make up 48% of non-main characters
-- Males make up 42.8% of non-main characters
-- 1 non-binary character exists
+- Females make up 54.8% of non-main characters
+- Males make up 42% of non-main characters
+- Adira is the 1 non-binary character, not counted in the female tally, and episodes with the character's use of 'she/her' pronouns are denoted with * in the dataset. Episodes with Adira after Season 3 episode 8 will no longer be counted as female
 - "Number One" is used for both male and female characters in Star Trek history
+- Adira Tal Trill symbionts: Kasha Tal, Jovar Tal, Madela Tal, Cara Tal, Senna Tal, Gray Tal
