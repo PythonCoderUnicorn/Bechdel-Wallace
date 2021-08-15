@@ -1,0 +1,48 @@
+
+Season,Episode,Title,Director,Director_Gender,Writen_By,Writers_Gender,Bechdel_Test,Test_Outcome,Context 
+1,1,"The Vulcan Hello",'David Semel',Male,"Bryan Fuller & Alex Kurtzman",Male,1,Pass,Georgiou & Burnham
+1,2,"Battle at the Binary Stars",'Adam Kane',Male,"Bryan Fuller",Male,1,Pass,Georgiou & Burnham
+1,3,"Context Is for Kings",'Akiva Goldsman',Male,"Bryan Fuller, Gretchen J. Berg & Aaron Harberts",Female - Male (2),1,Pass,(Burnham + Landry)(Burnham + Tilly)                              
+1,4,"The Butcher's Knife Cares Not for the Lamb's Cry","Olatunde Osunsanmi",Male,"Jesse Alexander & Aron Eli Coleite",Male,1,Pass,(Burnham + Landry)(Burnham + Tilly) 
+1,5,"Choose Your Pain",'Lee Rose',Female,"Gretchen J. Berg & Aaron Harberts & Kemp Powers",Female - Male (2),1,Pass,Burnham & Tilly
+1,6,"Lethe",'Doug Aarniokoski',Male,"Joe Menosky & Ted Sullivan",Male,0,Fail,Burnham & Tilly talk about Ash and Sarek 
+1,7,"Magic to Make the Sanest Man Go Mad","David M. Barrett",Male,"Aron Eli Coleite & Jesse Alexander",Male,0,Fail,Burnham & Tilly talk about Ash and Harvey Mudd
+1,8,"Si Vis Pacem, Para Bellum","John S. Scott",Male,"Kirsten Beyer",Female,0,Fail,L'Rell & Cornwall talk about male Klingon
+1,9,"Into the Forest I Go","Chris Byrne",Male,"Bo Yeon Kim & Erika Lippoldt",Female (2),0,Fail,Null
+1,10,"Despite Yourself","Jonathan Frakes",Male,"Sean Cochran",Male,1,Pass,Burnham & Tilly 
+1,11,"The Wolf Inside","T. J. Scott",Male,"Lisa Randolph",Female,1,Pass,Burnham & Detmer 
+1,12,"Vaulting Ambition","Hanelle Culpepper",Female,"Jordon Nardino",Male,1,Pass,Burnham & Georgiou 
+1,13,"What's Past Is Prologue","Olatunde Osunsanmi",Male,"Ted Sullivan",Male,0,Fail,Burnham & Georgiou talk about Lorca
+1,14,"The War Without, The War Within","David Solomon",Male,"Lisa Randolph",Female,1,Pass,(Burnham & Georgiou)(Burnham & Cornwall)(L'Rell & Cornwall)
+1,15,"Will You Take My Hand?","Akiva Goldsman",Male,"Akiva Goldsman & Gretchen J. Berg & Aaron Harberts",Female - Male (2),1,Pass,(Burnham & Georgiou)(Georgiou & L'Rell)(Georgiou & Tilly)(Burnham & Tilly)
+
+
+2,1,"Brother","Alex Kurtzman",Male,"Ted Sullivan & Gretchen J. Berg & Aaron Harberts",Female - Male (2),0,Fail,(Burnham & Mother talk about Spock)(Burnham & Tilly)(Burnham & Jett Reno)
+2,2,"New Eden","Jonathan Frakes",Male,"Akiva Goldsman & Sean Cochran",Male,1,Pass,(Tilly & May)
+2,3,"Point of Light","Olatunde Osunsanmi",Male,"Andrew Colville",Male,0,Fail,(Burnham & Mother talk about Sarek)(Tilly + Burnham & May)(Georgiou & T'Rell talk about male Klingons)
+2,4,"An Obol for Charon","Lee Rose",Female,"Jordon Nardino & Gretchen J. Berg & Aaron Harberts",Female - Male (2),0,Fail,Null
+2,5,"Saints of Imperfection","David Barrett",Male,"Kirsten Beyer",Female,0,Fail,(Burnham & Georgiou talk about Spock & Leland)(Tilly & May)
+2,6,"The Sound of Thunder","Douglas Aarniokoski",Male,"Bo Yeon Kim & Erika Lippoldt",Female (2),0,Fail,(Burnham & Saru's sister Siranna)(Burnham + Tilly & Airiam talk about Saru)
+2,7,"Light and Shadows","Marta Cunningham",Female,"Ted Sullivan & Vaun Wilmott",Male,0,Fail,(Burnham & Mother talk about Spock)(Burnham & Georgiou talk about Spock)
+2,8,"If Memory Serves","T. J. Scott",Male,"Dan Dworkin & Jay Beattie",Male,0,Fail,(Georgiou & Admiral Patar)(Burnham & Vina talk about Spock)
+2,9,"Project Daedalus","Jonathan Frakes",Male,"Michelle Paradise",Female,1,Pass,(Tilly & Airiam)(Tilly & Nhan)(Admiral Cornwall & Admiral Patar)
+2,10,"The Red Angel","Hanelle Culpepper",Female,"Chris Silvestri & Anthony Maranville",Male,0,Fail,(Burnham & Tilly)(Burnham & Georgiou talk about Leland)(Burnham & Nhan)
+2,11,"Perpetual Infinity","Maja Vrvilo",Female,"Alan McElroy & Brandon Schultz",Male,1,Pass,(Burnham & birth Mother)(Georgiou & Burnham)
+2,12,"Through the Valley of Shadows","Douglas Aarniokoski",Male,"Bo Yeon Kim & Erika Lippoldt",Female (2),0,Fail,(Burnham & Mother)
+2,13,"Such Sweet Sorrow Part 1","Olatunde Osunsanmi",Male,"Michelle Paradise & Jenny Lumet & Alex Kurtzman",Male - Female (2),0,Fail,(Burnham & Georgiou talk about Leland)(Burnham + Reno + Tilly & Me Hani Ika Hali Ka Po)
+2,14,"Such Sweet Sorrow Part 2","Olatunde Osunsanmi",Male,"Michelle Paradise & Jenny Lumet & Alex Kurtzman",Male - Female (2),0,Fail,Null
+
+
+3,1,"That Hope Is You, Part 1","Olatunde Osunsanmi",Male,"Michelle Paradise & Jenny Lumet & Alex Kurtzman",Male - Female (2),0,Fail,Null
+3,2,"Far from Home","Olatunde Osunsanmi",Male,"Michelle Paradise & Jenny Lumet & Alex Kurtzman",Male - Female (2),1,Pass,(Burnham + Tilly + Nhan)(Nhan & Georgiou)
+3,3,"People of Earth","Jonathan Frakes",Male,"Bo Yeon Kim & Erika Lippoldt",Female (2),1,Pass,(Burnham & Tilly)(Georgiou & Burnham)
+3,4,"Forget Me Not","Hanelle M. Culpepper",Female,"Alan McElroy & Chris Silvestri & Anthony Maranville",Male,1,Pass,(Adira* & Burnham + Dr.Pollard)(Burnham & Adira*)
+3,5,"Die Trying","Maja Vrvilo",Female,"James Duff & Sean Cochran",Male,1,Pass,(Burnham & Willa)(Georgiou & female holograms)(Burnham + Nhan + Willa)(Tilly + Reno + Willa + Burnham)(Burnham & Nhan)
+3,6,"Scavengers","Douglas Aarniokoski",Male,"Anne Cofell Saunders",Female,0,Fail,(Burnham & Georgiou talk about Saru and Booker)(Burnham & Georgiou)
+3,7,"Unification III","Jon Dudkowski",Male,"Kirsten Beyer",Female,1,Pass,(Burnham & Tilly)(Burnham & T'Rina)(Burnham & Mother)
+3,8,"The Sanctuary","Jonathan Frakes",Male,"Kenneth Lin & Brandon Schultz",Male,1,Pass,(Burnham & Georgiou)(Georgiou & Dr.Pollard)
+3,9,"Terra Firma","Omar Madha",Male,"Bo Yeon Kim & Erika Lippoldt & Alan McElroy",Male - Female (2),1,Pass,(Burnham + Georgiou + Tilly)(Georgiou & Tilly)
+3,10,"Terra Firma","Omar Madha",Male,"Kalinda Vazquez",Female,1,Pass,(Burnham & Georgiou)(Georgiou & Tilly)
+3,11,"Su'Kal","Norma Bailey",Female,"Anne Cofell Saunders",Female,1,Pass,(Burnham & Tilly)(Tilly & Osyraa)
+3,12,"There Is a Tide...","Jonathan Frakes",Male,"Kenneth Lin",Male,1,Pass,(Osyraa & female)(Tilly & female crew)
+3,13,"That Hope Is You, Part 2","Olatunde Osunsanmi",Male,"Michelle Paradise",Female,1,Pass,(Burnham & Osyraa)(Tilly & Owo)(Owo & Detmer)
